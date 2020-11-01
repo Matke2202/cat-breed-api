@@ -1,0 +1,47 @@
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 25px;
+    
+    
+}
+
+#search-form {
+    padding: 25px 0 20px 0;
+    
+}
+
+#form-btn {
+    padding: 6px 18px;
+    border-radius: 5px;
+    margin: 15px 30%;
+    
+}
+
+.display-data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.display-image img {
+
+    width: 320px;
+    height: 240px;
+    padding-bottom: 10px;
+    
+    
+}
+
+.display-text {
+    display: flex;
+    text-align: center;
+    width: 320px;
+}
+
